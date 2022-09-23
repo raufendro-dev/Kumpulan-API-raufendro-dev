@@ -1,0 +1,12 @@
+Link API
+[GET] https://insta-api-id.herokuapp.com/instagram/username=username_instagram_tanpa_@
+
+Contoh :
+https://insta-api-id.herokuapp.com/instagram/username=kolonilucu
+
+Output:
+{
+  "author": "raufendro-dev",
+  "followers": "18",
+  "username": "kolonilucu"
+}
