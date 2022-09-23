@@ -7,5 +7,5 @@ Kumpulan API buatan raufendro-dev gratis maupun berbayar
 
 
 
-### Untuk Beli kopi ☕️
+### Untuk beli kopi ☕️
 ![alt text](https://github.com/raufendro-dev/Kumpulan-API-raufendro-dev/blob/main/saweria.png)
