@@ -1,1 +1,8 @@
 
+Link API
+- Nomor Telepon RS Seluruh Indonesia : [GET] http://raufendro-dev.com:8000/TelpRSAPI/rs
+- Nomor Telepon RS per Kabupaten/Kota : [GET] http://raufendro-dev.com:8000/TelpRSAPI/rs/kabkota/(Kabupaten/Kota)
+Contoh : 
+  http://raufendro-dev.com:8000/TelpRSAPI/rs/kabkota/Bandung
+  
+- Melihat List KabKota : [GET] http://raufendro-dev.com:8000/TelpRSAPI/rs/kabkota/
